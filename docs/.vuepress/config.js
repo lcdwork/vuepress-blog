@@ -14,6 +14,6 @@ module.exports = {
   },
 
   head,
-  plugins,
+  plugins: ['fulltext-search'],
   themeConfig,
 }
