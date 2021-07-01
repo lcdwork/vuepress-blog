@@ -53,7 +53,7 @@ module.exports = {
   },
   blogger: {
     // 博主信息，显示在首页侧边栏
-    avatar: '/img/avatar.jpg',
+    avatar: './img/avatar.jpg',
     name: 'LCD',
     slogan: '北川',
   },
